@@ -1,0 +1,1 @@
+# NuriTech_crop_deseaseDeateciton-model-using-cnn
